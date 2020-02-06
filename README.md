@@ -40,7 +40,7 @@ https://drive.google.com/open?id=1BL_2ZgTf55vH2q1jvVz0hkhlWYgj-coa
 ## 1. clone the repo
 
 ``` 
-git clone https://github.com/kentaroy47/frcnn-from-scratch-with-keras.git
+git clone https://github.com/glentimemaker/frcnn-from-scratch-with-keras.git
 cd frcnn-from-scratch-with-keras
 ```
 
